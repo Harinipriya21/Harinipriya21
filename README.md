@@ -44,16 +44,5 @@
 
 ---
 
-## 🌟 Featured Projects  
-- 📌 [Smart Upload Compressor](https://github.com/HariniPriya21/Smart-Upload-Compressor) – Chrome extension to compress files before uploading.  
-- 💬 [WhatsApp Clone](https://github.com/HariniPriya21/Whatsapp-Clone) – MERN stack real-time chat application.  
-- 🔐 [RFID Voting System](https://github.com/HariniPriya21/RFID-Voting-System) – Arduino-based secure voting solution.  
-
----
-
-## 🎨 Fun Extras  
-![GitHub Snake Animation](https://github.com/HariniPriya21/HariniPriya21/blob/output/github-contribution-grid-snake.svg)  
-
----
 
 🌸 *"Code. Debug. Repeat. But don’t forget to enjoy the journey!"* 🌸  
