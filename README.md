@@ -5,21 +5,12 @@
 🚀 Exploring AI, Cloud Computing, and Open Source  
 
 
-<!-- Typing Intro -->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A90D&size=25&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Harini+Priya;Full+Stack+Web+Developer;Problem+Solver;Always+Learning+New+Things!)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 🌐 Connect With Me  
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-priya-493531308)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaharini530@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HariniPriya07)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-priya-493531308) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaharini530@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HariniPriya07)
 
 </div>
 
@@ -28,21 +19,19 @@
 ## 🚀 Tech Stack  
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![ReactJS](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e) 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 </div>
-
 ---
-
 ## 📊 GitHub Stats  
 <div align="center">
 
@@ -60,11 +49,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HariniPriya07?theme=dark&font=Baloo%202&ext=heatmap)  
 
 </div>
-
----
-<div align="center">
-
-🌸 *"Code. Debug. Repeat. But don’t forget to enjoy the journey!"* 🌸  
-
-</div>
-
