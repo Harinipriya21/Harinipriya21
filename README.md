@@ -1,4 +1,4 @@
-<div align="center">
+
 ## 👋 Hi, I'm Harini Priya!
 🎓 3rd-year Computer Science Engineering Student @ Kongu Engineering College  
 💻 Passionate about **Web Development (MERN Stack)** & **Problem Solving**  
