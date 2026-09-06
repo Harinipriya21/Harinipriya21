@@ -1,6 +1,6 @@
 
 ## 👋 Hi, I'm Harini Priya!
-🎓 3rd-year Computer Science Engineering Student @ Kongu Engineering College  
+🎓 Computer Science Engineering Student @ Kongu Engineering College  
 💻 Passionate about **Web Development (MERN Stack)**  
 🚀 Exploring AI and Open Source  
 
